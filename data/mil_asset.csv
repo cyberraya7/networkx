@@ -1,0 +1,892 @@
+ID,Year,Name,Type,Origin,Country
+1,2020,Hanwha Tigon,6x6 Wheeled Armored Personnel Carrier (APC),South Korea,Malaysia
+2,2005,FNSS PARS (Anatolian Leopard),6x6 / 8x8 Armored Personnel Carrier (APC),Turkey,Malaysia
+3,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Malaysia
+4,1995,PT-91 Twardy,Main Battle Tank (MBT),Poland,Malaysia
+5,1992,FNSS ACV-15,Infantry Fighting Vehicle (IFV) / Armored Personnel Carrier (APC),Turkey,Malaysia
+6,1990,IVECO VM90,Light Multi-Mission Military Vehicle,Italy,Malaysia
+7,1985,K200 KIFV,Infantry Fighting Vehicle (IFV),South Korea,Malaysia
+8,1983,Avibras ASTROS II (Artillery SaTuration ROcket System),6x6 Wheeled Multiple Launch Rocket System (MLRS),Brazil,Malaysia
+9,1983,BNCFM SIBMAS,6x6 Wheeled Armored Fighting Vehicle (AFV),Belgium,Malaysia
+10,1983,Denel GV5 Luiperd (G5 Leopard),Towed 155mm Heavy Field Howitzer,South Africa,Malaysia
+11,1983,Land Rover Defender 110,Multi-Purpose Light Combat Vehicle,Britain,Malaysia
+12,1983,Saxon AT105,Wheeled Armored Personnel Carrier (APC),Britain,Malaysia
+13,1982,HEMTT (Heavy Expanded Mobility Tactical Truck),Heavy-class Military Vehicle,United States,Malaysia
+14,1982,M939,5-ton Multi-Purpose Military Truck,United States,Malaysia
+15,1981,Alvis FV4333 Stormer,Armored Personnel Carrier (APC) / Multirole Armored Fighting Vehicle (AFV),Britain,Malaysia
+16,1981,Rheinmetall Landsysteme Condor,Wheeled Armored Personnel Carrier / Multipurpose Vehicle,Germany,Malaysia
+17,1980,Hagglunds Bandvagn 206,"All-Terrain, Articulated Tracked Multi-Role Vehicle",Sweden,Malaysia
+18,1978,FH70 (Field Howitzer 1970),155mm Towed Howitzer,Britain,Malaysia
+19,1976,"L118 Light Gun (Gun, 105mm, Field, L118)",105mm Towed Light Howitzer,Britain,Malaysia
+20,1975,FMS AIFV (Armored Infantry Fighting Vehicle) / (M113A1),Infantry Fighting Vehicle (IFV),United States,Malaysia
+21,1973,Alvis FV101 Scorpion,Light Armored Reconnaissance Vehicle,Britain,Malaysia
+22,1973,Panhard M3,Light-Armored Multirole Combat Car / Security Vehicle,France,Malaysia
+23,1970,WZT ARV (Series),Armored Recovery Vehicle,Poland,Malaysia
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,United States,Malaysia
+25,1960,Panhard AML (Auto Mitrailleuse Legere),Wheeled Light Armored Scout / Reconnaissance Car,France,Malaysia
+26,1956,OTO Melara Mod 56,105mm Pack Howitzer / Lightweight Artillery Piece,Italy,Malaysia
+27,1952,Daimler Ferret,4x4 Armored Car,Britain,Malaysia
+28,1942,Daimler Armored Car,Four-Wheeled Light Armored Fighting Vehicle (LAFV),Britain,Malaysia
+29,1941,Ordnance BL 5.5-inch,Towed Field Gun,Britain,Malaysia
+30,1940,Morris Light Reconnaissance Car (LRC),Fast Armored Car,Britain,Malaysia
+31,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Malaysia
+32,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Malaysia
+33,1920,Rock Island Arsenal M101,Towed 105mm Medium Howitzer,United States,Malaysia
+1,2020,Hanwha Tigon,6x6 Wheeled Armored Personnel Carrier (APC),South Korea,Malaysia
+2,2005,FNSS PARS (Anatolian Leopard),6x6 / 8x8 Armored Personnel Carrier (APC),Turkey,Malaysia
+3,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Malaysia
+4,1995,PT-91 Twardy,Main Battle Tank (MBT),Poland,Malaysia
+5,1992,FNSS ACV-15,Infantry Fighting Vehicle (IFV) / Armored Personnel Carrier (APC),Turkey,Malaysia
+6,1990,IVECO VM90,Light Multi-Mission Military Vehicle,Italy,Malaysia
+7,1985,K200 KIFV,Infantry Fighting Vehicle (IFV),South Korea,Malaysia
+8,1983,Avibras ASTROS II (Artillery SaTuration ROcket System),6x6 Wheeled Multiple Launch Rocket System (MLRS),Brazil,Malaysia
+9,1983,BNCFM SIBMAS,6x6 Wheeled Armored Fighting Vehicle (AFV),Belgium,Malaysia
+10,1983,Denel GV5 Luiperd (G5 Leopard),Towed 155mm Heavy Field Howitzer,South Africa,Malaysia
+11,1983,Land Rover Defender 110,Multi-Purpose Light Combat Vehicle,Britain,Malaysia
+12,1983,Saxon AT105,Wheeled Armored Personnel Carrier (APC),Britain,Malaysia
+13,1982,HEMTT (Heavy Expanded Mobility Tactical Truck),Heavy-class Military Vehicle,United States,Malaysia
+14,1982,M939,5-ton Multi-Purpose Military Truck,United States,Malaysia
+15,1981,Alvis FV4333 Stormer,Armored Personnel Carrier (APC) / Multirole Armored Fighting Vehicle (AFV),Britain,Malaysia
+16,1981,Rheinmetall Landsysteme Condor,Wheeled Armored Personnel Carrier / Multipurpose Vehicle,Germany,Malaysia
+17,1980,Hagglunds Bandvagn 206,"All-Terrain, Articulated Tracked Multi-Role Vehicle",Sweden,Malaysia
+18,1978,FH70 (Field Howitzer 1970),155mm Towed Howitzer,Britain,Malaysia
+19,1976,"L118 Light Gun (Gun, 105mm, Field, L118)",105mm Towed Light Howitzer,Britain,Malaysia
+20,1975,FMS AIFV (Armored Infantry Fighting Vehicle) / (M113A1),Infantry Fighting Vehicle (IFV),United States,Malaysia
+21,1973,Alvis FV101 Scorpion,Light Armored Reconnaissance Vehicle,Britain,Malaysia
+22,1973,Panhard M3,Light-Armored Multirole Combat Car / Security Vehicle,France,Malaysia
+23,1970,WZT ARV (Series),Armored Recovery Vehicle,Poland,Malaysia
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,United States,Malaysia
+25,1960,Panhard AML (Auto Mitrailleuse Legere),Wheeled Light Armored Scout / Reconnaissance Car,France,Malaysia
+26,1956,OTO Melara Mod 56,105mm Pack Howitzer / Lightweight Artillery Piece,Italy,Malaysia
+27,1952,Daimler Ferret,4x4 Armored Car,Britain,Malaysia
+28,1942,Daimler Armored Car,Four-Wheeled Light Armored Fighting Vehicle (LAFV),Britain,Malaysia
+29,1941,Ordnance BL 5.5-inch,Towed Field Gun,Britain,Malaysia
+30,1940,Morris Light Reconnaissance Car (LRC),Fast Armored Car,Britain,Malaysia
+31,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Malaysia
+32,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Malaysia
+33,1920,Rock Island Arsenal M101,Towed 105mm Medium Howitzer,United States,Malaysia
+1,2020,Hanwha Tigon,6x6 Wheeled Armored Personnel Carrier (APC),South Korea,Malaysia
+2,2005,FNSS PARS (Anatolian Leopard),6x6 / 8x8 Armored Personnel Carrier (APC),Turkey,Malaysia
+3,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Malaysia
+4,1995,PT-91 Twardy,Main Battle Tank (MBT),Poland,Malaysia
+5,1992,FNSS ACV-15,Infantry Fighting Vehicle (IFV) / Armored Personnel Carrier (APC),Turkey,Malaysia
+6,1990,IVECO VM90,Light Multi-Mission Military Vehicle,Italy,Malaysia
+7,1985,K200 KIFV,Infantry Fighting Vehicle (IFV),South Korea,Malaysia
+8,1983,Avibras ASTROS II (Artillery SaTuration ROcket System),6x6 Wheeled Multiple Launch Rocket System (MLRS),Brazil,Malaysia
+9,1983,BNCFM SIBMAS,6x6 Wheeled Armored Fighting Vehicle (AFV),Belgium,Malaysia
+10,1983,Denel GV5 Luiperd (G5 Leopard),Towed 155mm Heavy Field Howitzer,South Africa,Malaysia
+11,1983,Land Rover Defender 110,Multi-Purpose Light Combat Vehicle,Britain,Malaysia
+12,1983,Saxon AT105,Wheeled Armored Personnel Carrier (APC),Britain,Malaysia
+13,1982,HEMTT (Heavy Expanded Mobility Tactical Truck),Heavy-class Military Vehicle,United States,Malaysia
+14,1982,M939,5-ton Multi-Purpose Military Truck,United States,Malaysia
+15,1981,Alvis FV4333 Stormer,Armored Personnel Carrier (APC) / Multirole Armored Fighting Vehicle (AFV),Britain,Malaysia
+16,1981,Rheinmetall Landsysteme Condor,Wheeled Armored Personnel Carrier / Multipurpose Vehicle,Germany,Malaysia
+17,1980,Hagglunds Bandvagn 206,"All-Terrain, Articulated Tracked Multi-Role Vehicle",Sweden,Malaysia
+18,1978,FH70 (Field Howitzer 1970),155mm Towed Howitzer,Britain,Malaysia
+19,1976,"L118 Light Gun (Gun, 105mm, Field, L118)",105mm Towed Light Howitzer,Britain,Malaysia
+20,1975,FMS AIFV (Armored Infantry Fighting Vehicle) / (M113A1),Infantry Fighting Vehicle (IFV),United States,Malaysia
+21,1973,Alvis FV101 Scorpion,Light Armored Reconnaissance Vehicle,Britain,Malaysia
+22,1973,Panhard M3,Light-Armored Multirole Combat Car / Security Vehicle,France,Malaysia
+23,1970,WZT ARV (Series),Armored Recovery Vehicle,Poland,Malaysia
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,United States,Malaysia
+25,1960,Panhard AML (Auto Mitrailleuse Legere),Wheeled Light Armored Scout / Reconnaissance Car,France,Malaysia
+26,1956,OTO Melara Mod 56,105mm Pack Howitzer / Lightweight Artillery Piece,Italy,Malaysia
+27,1952,Daimler Ferret,4x4 Armored Car,Britain,Malaysia
+28,1942,Daimler Armored Car,Four-Wheeled Light Armored Fighting Vehicle (LAFV),Britain,Malaysia
+29,1941,Ordnance BL 5.5-inch,Towed Field Gun,Britain,Malaysia
+30,1940,Morris Light Reconnaissance Car (LRC),Fast Armored Car,Britain,Malaysia
+31,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Malaysia
+32,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Malaysia
+33,1920,Rock Island Arsenal M101,Towed 105mm Medium Howitzer,United States,Malaysia
+1,2020,Hanwha Tigon,6x6 Wheeled Armored Personnel Carrier (APC),South Korea,Malaysia
+2,2005,FNSS PARS (Anatolian Leopard),6x6 / 8x8 Armored Personnel Carrier (APC),Turkey,Malaysia
+3,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Malaysia
+4,1995,PT-91 Twardy,Main Battle Tank (MBT),Poland,Malaysia
+5,1992,FNSS ACV-15,Infantry Fighting Vehicle (IFV) / Armored Personnel Carrier (APC),Turkey,Malaysia
+6,1990,IVECO VM90,Light Multi-Mission Military Vehicle,Italy,Malaysia
+7,1985,K200 KIFV,Infantry Fighting Vehicle (IFV),South Korea,Malaysia
+8,1983,Avibras ASTROS II (Artillery SaTuration ROcket System),6x6 Wheeled Multiple Launch Rocket System (MLRS),Brazil,Malaysia
+9,1983,BNCFM SIBMAS,6x6 Wheeled Armored Fighting Vehicle (AFV),Belgium,Malaysia
+10,1983,Denel GV5 Luiperd (G5 Leopard),Towed 155mm Heavy Field Howitzer,South Africa,Malaysia
+11,1983,Land Rover Defender 110,Multi-Purpose Light Combat Vehicle,Britain,Malaysia
+12,1983,Saxon AT105,Wheeled Armored Personnel Carrier (APC),Britain,Malaysia
+13,1982,HEMTT (Heavy Expanded Mobility Tactical Truck),Heavy-class Military Vehicle,United States,Malaysia
+14,1982,M939,5-ton Multi-Purpose Military Truck,United States,Malaysia
+15,1981,Alvis FV4333 Stormer,Armored Personnel Carrier (APC) / Multirole Armored Fighting Vehicle (AFV),Britain,Malaysia
+16,1981,Rheinmetall Landsysteme Condor,Wheeled Armored Personnel Carrier / Multipurpose Vehicle,Germany,Malaysia
+17,1980,Hagglunds Bandvagn 206,"All-Terrain, Articulated Tracked Multi-Role Vehicle",Sweden,Malaysia
+18,1978,FH70 (Field Howitzer 1970),155mm Towed Howitzer,Britain,Malaysia
+19,1976,"L118 Light Gun (Gun, 105mm, Field, L118)",105mm Towed Light Howitzer,Britain,Malaysia
+20,1975,FMS AIFV (Armored Infantry Fighting Vehicle) / (M113A1),Infantry Fighting Vehicle (IFV),United States,Malaysia
+21,1973,Alvis FV101 Scorpion,Light Armored Reconnaissance Vehicle,Britain,Malaysia
+22,1973,Panhard M3,Light-Armored Multirole Combat Car / Security Vehicle,France,Malaysia
+23,1970,WZT ARV (Series),Armored Recovery Vehicle,Poland,Malaysia
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,United States,Malaysia
+25,1960,Panhard AML (Auto Mitrailleuse Legere),Wheeled Light Armored Scout / Reconnaissance Car,France,Malaysia
+26,1956,OTO Melara Mod 56,105mm Pack Howitzer / Lightweight Artillery Piece,Italy,Malaysia
+27,1952,Daimler Ferret,4x4 Armored Car,Britain,Malaysia
+28,1942,Daimler Armored Car,Four-Wheeled Light Armored Fighting Vehicle (LAFV),Britain,Malaysia
+29,1941,Ordnance BL 5.5-inch,Towed Field Gun,Britain,Malaysia
+30,1940,Morris Light Reconnaissance Car (LRC),Fast Armored Car,Britain,Malaysia
+31,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Malaysia
+32,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Malaysia
+33,1920,Rock Island Arsenal M101,Towed 105mm Medium Howitzer,United States,Malaysia
+1,2020,Hanwha Tigon,6x6 Wheeled Armored Personnel Carrier (APC),South Korea,Malaysia
+2,2005,FNSS PARS (Anatolian Leopard),6x6 / 8x8 Armored Personnel Carrier (APC),Turkey,Malaysia
+3,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Malaysia
+4,1995,PT-91 Twardy,Main Battle Tank (MBT),Poland,Malaysia
+5,1992,FNSS ACV-15,Infantry Fighting Vehicle (IFV) / Armored Personnel Carrier (APC),Turkey,Malaysia
+6,1990,IVECO VM90,Light Multi-Mission Military Vehicle,Italy,Malaysia
+7,1985,K200 KIFV,Infantry Fighting Vehicle (IFV),South Korea,Malaysia
+8,1983,Avibras ASTROS II (Artillery SaTuration ROcket System),6x6 Wheeled Multiple Launch Rocket System (MLRS),Brazil,Malaysia
+9,1983,BNCFM SIBMAS,6x6 Wheeled Armored Fighting Vehicle (AFV),Belgium,Malaysia
+10,1983,Denel GV5 Luiperd (G5 Leopard),Towed 155mm Heavy Field Howitzer,South Africa,Malaysia
+11,1983,Land Rover Defender 110,Multi-Purpose Light Combat Vehicle,Britain,Malaysia
+12,1983,Saxon AT105,Wheeled Armored Personnel Carrier (APC),Britain,Malaysia
+13,1982,HEMTT (Heavy Expanded Mobility Tactical Truck),Heavy-class Military Vehicle,United States,Malaysia
+14,1982,M939,5-ton Multi-Purpose Military Truck,United States,Malaysia
+15,1981,Alvis FV4333 Stormer,Armored Personnel Carrier (APC) / Multirole Armored Fighting Vehicle (AFV),Britain,Malaysia
+16,1981,Rheinmetall Landsysteme Condor,Wheeled Armored Personnel Carrier / Multipurpose Vehicle,Germany,Malaysia
+17,1980,Hagglunds Bandvagn 206,"All-Terrain, Articulated Tracked Multi-Role Vehicle",Sweden,Malaysia
+18,1978,FH70 (Field Howitzer 1970),155mm Towed Howitzer,Britain,Malaysia
+19,1976,"L118 Light Gun (Gun, 105mm, Field, L118)",105mm Towed Light Howitzer,Britain,Malaysia
+20,1975,FMS AIFV (Armored Infantry Fighting Vehicle) / (M113A1),Infantry Fighting Vehicle (IFV),United States,Malaysia
+21,1973,Alvis FV101 Scorpion,Light Armored Reconnaissance Vehicle,Britain,Malaysia
+22,1973,Panhard M3,Light-Armored Multirole Combat Car / Security Vehicle,France,Malaysia
+23,1970,WZT ARV (Series),Armored Recovery Vehicle,Poland,Malaysia
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,United States,Malaysia
+25,1960,Panhard AML (Auto Mitrailleuse Legere),Wheeled Light Armored Scout / Reconnaissance Car,France,Malaysia
+26,1956,OTO Melara Mod 56,105mm Pack Howitzer / Lightweight Artillery Piece,Italy,Malaysia
+27,1952,Daimler Ferret,4x4 Armored Car,Britain,Malaysia
+28,1942,Daimler Armored Car,Four-Wheeled Light Armored Fighting Vehicle (LAFV),Britain,Malaysia
+29,1941,Ordnance BL 5.5-inch,Towed Field Gun,Britain,Malaysia
+30,1940,Morris Light Reconnaissance Car (LRC),Fast Armored Car,Britain,Malaysia
+31,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Malaysia
+32,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Malaysia
+33,1920,Rock Island Arsenal M101,Towed 105mm Medium Howitzer,United States,Malaysia
+1,2020,Hanwha Tigon,6x6 Wheeled Armored Personnel Carrier (APC),South Korea,Malaysia
+2,2005,FNSS PARS (Anatolian Leopard),6x6 / 8x8 Armored Personnel Carrier (APC),Turkey,Malaysia
+3,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Malaysia
+4,1995,PT-91 Twardy,Main Battle Tank (MBT),Poland,Malaysia
+5,1992,FNSS ACV-15,Infantry Fighting Vehicle (IFV) / Armored Personnel Carrier (APC),Turkey,Malaysia
+6,1990,IVECO VM90,Light Multi-Mission Military Vehicle,Italy,Malaysia
+7,1985,K200 KIFV,Infantry Fighting Vehicle (IFV),South Korea,Malaysia
+8,1983,Avibras ASTROS II (Artillery SaTuration ROcket System),6x6 Wheeled Multiple Launch Rocket System (MLRS),Brazil,Malaysia
+9,1983,BNCFM SIBMAS,6x6 Wheeled Armored Fighting Vehicle (AFV),Belgium,Malaysia
+10,1983,Denel GV5 Luiperd (G5 Leopard),Towed 155mm Heavy Field Howitzer,South Africa,Malaysia
+11,1983,Land Rover Defender 110,Multi-Purpose Light Combat Vehicle,Britain,Malaysia
+12,1983,Saxon AT105,Wheeled Armored Personnel Carrier (APC),Britain,Malaysia
+13,1982,HEMTT (Heavy Expanded Mobility Tactical Truck),Heavy-class Military Vehicle,United States,Malaysia
+14,1982,M939,5-ton Multi-Purpose Military Truck,United States,Malaysia
+15,1981,Alvis FV4333 Stormer,Armored Personnel Carrier (APC) / Multirole Armored Fighting Vehicle (AFV),Britain,Malaysia
+16,1981,Rheinmetall Landsysteme Condor,Wheeled Armored Personnel Carrier / Multipurpose Vehicle,Germany,Malaysia
+17,1980,Hagglunds Bandvagn 206,"All-Terrain, Articulated Tracked Multi-Role Vehicle",Sweden,Malaysia
+18,1978,FH70 (Field Howitzer 1970),155mm Towed Howitzer,Britain,Malaysia
+19,1976,"L118 Light Gun (Gun, 105mm, Field, L118)",105mm Towed Light Howitzer,Britain,Malaysia
+20,1975,FMS AIFV (Armored Infantry Fighting Vehicle) / (M113A1),Infantry Fighting Vehicle (IFV),United States,Malaysia
+21,1973,Alvis FV101 Scorpion,Light Armored Reconnaissance Vehicle,Britain,Malaysia
+22,1973,Panhard M3,Light-Armored Multirole Combat Car / Security Vehicle,France,Malaysia
+23,1970,WZT ARV (Series),Armored Recovery Vehicle,Poland,Malaysia
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,United States,Malaysia
+25,1960,Panhard AML (Auto Mitrailleuse Legere),Wheeled Light Armored Scout / Reconnaissance Car,France,Malaysia
+26,1956,OTO Melara Mod 56,105mm Pack Howitzer / Lightweight Artillery Piece,Italy,Malaysia
+27,1952,Daimler Ferret,4x4 Armored Car,Britain,Malaysia
+28,1942,Daimler Armored Car,Four-Wheeled Light Armored Fighting Vehicle (LAFV),Britain,Malaysia
+29,1941,Ordnance BL 5.5-inch,Towed Field Gun,Britain,Malaysia
+30,1940,Morris Light Reconnaissance Car (LRC),Fast Armored Car,Britain,Malaysia
+31,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Malaysia
+32,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Malaysia
+33,1920,Rock Island Arsenal M101,Towed 105mm Medium Howitzer,United States,Malaysia
+1,2020,Hanwha Tigon,6x6 Wheeled Armored Personnel Carrier (APC),South Korea,Malaysia
+2,2005,FNSS PARS (Anatolian Leopard),6x6 / 8x8 Armored Personnel Carrier (APC),Turkey,Malaysia
+3,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Malaysia
+4,1995,PT-91 Twardy,Main Battle Tank (MBT),Poland,Malaysia
+5,1992,FNSS ACV-15,Infantry Fighting Vehicle (IFV) / Armored Personnel Carrier (APC),Turkey,Malaysia
+6,1990,IVECO VM90,Light Multi-Mission Military Vehicle,Italy,Malaysia
+7,1985,K200 KIFV,Infantry Fighting Vehicle (IFV),South Korea,Malaysia
+8,1983,Avibras ASTROS II (Artillery SaTuration ROcket System),6x6 Wheeled Multiple Launch Rocket System (MLRS),Brazil,Malaysia
+9,1983,BNCFM SIBMAS,6x6 Wheeled Armored Fighting Vehicle (AFV),Belgium,Malaysia
+10,1983,Denel GV5 Luiperd (G5 Leopard),Towed 155mm Heavy Field Howitzer,South Africa,Malaysia
+11,1983,Land Rover Defender 110,Multi-Purpose Light Combat Vehicle,Britain,Malaysia
+12,1983,Saxon AT105,Wheeled Armored Personnel Carrier (APC),Britain,Malaysia
+13,1982,HEMTT (Heavy Expanded Mobility Tactical Truck),Heavy-class Military Vehicle,United States,Malaysia
+14,1982,M939,5-ton Multi-Purpose Military Truck,United States,Malaysia
+15,1981,Alvis FV4333 Stormer,Armored Personnel Carrier (APC) / Multirole Armored Fighting Vehicle (AFV),Britain,Malaysia
+16,1981,Rheinmetall Landsysteme Condor,Wheeled Armored Personnel Carrier / Multipurpose Vehicle,Germany,Malaysia
+17,1980,Hagglunds Bandvagn 206,"All-Terrain, Articulated Tracked Multi-Role Vehicle",Sweden,Malaysia
+18,1978,FH70 (Field Howitzer 1970),155mm Towed Howitzer,Britain,Malaysia
+19,1976,"L118 Light Gun (Gun, 105mm, Field, L118)",105mm Towed Light Howitzer,Britain,Malaysia
+20,1975,FMS AIFV (Armored Infantry Fighting Vehicle) / (M113A1),Infantry Fighting Vehicle (IFV),United States,Malaysia
+21,1973,Alvis FV101 Scorpion,Light Armored Reconnaissance Vehicle,Britain,Malaysia
+22,1973,Panhard M3,Light-Armored Multirole Combat Car / Security Vehicle,France,Malaysia
+23,1970,WZT ARV (Series),Armored Recovery Vehicle,Poland,Malaysia
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,United States,Malaysia
+25,1960,Panhard AML (Auto Mitrailleuse Legere),Wheeled Light Armored Scout / Reconnaissance Car,France,Malaysia
+26,1956,OTO Melara Mod 56,105mm Pack Howitzer / Lightweight Artillery Piece,Italy,Malaysia
+27,1952,Daimler Ferret,4x4 Armored Car,Britain,Malaysia
+28,1942,Daimler Armored Car,Four-Wheeled Light Armored Fighting Vehicle (LAFV),Britain,Malaysia
+29,1941,Ordnance BL 5.5-inch,Towed Field Gun,Britain,Malaysia
+30,1940,Morris Light Reconnaissance Car (LRC),Fast Armored Car,Britain,Malaysia
+31,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Malaysia
+32,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Malaysia
+33,1920,Rock Island Arsenal M101,Towed 105mm Medium Howitzer,United States,Malaysia
+1,2020,Hanwha Tigon,6x6 Wheeled Armored Personnel Carrier (APC),South Korea,Malaysia
+2,2005,FNSS PARS (Anatolian Leopard),6x6 / 8x8 Armored Personnel Carrier (APC),Turkey,Malaysia
+3,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Malaysia
+4,1995,PT-91 Twardy,Main Battle Tank (MBT),Poland,Malaysia
+5,1992,FNSS ACV-15,Infantry Fighting Vehicle (IFV) / Armored Personnel Carrier (APC),Turkey,Malaysia
+6,1990,IVECO VM90,Light Multi-Mission Military Vehicle,Italy,Malaysia
+7,1985,K200 KIFV,Infantry Fighting Vehicle (IFV),South Korea,Malaysia
+8,1983,Avibras ASTROS II (Artillery SaTuration ROcket System),6x6 Wheeled Multiple Launch Rocket System (MLRS),Brazil,Malaysia
+9,1983,BNCFM SIBMAS,6x6 Wheeled Armored Fighting Vehicle (AFV),Belgium,Malaysia
+10,1983,Denel GV5 Luiperd (G5 Leopard),Towed 155mm Heavy Field Howitzer,South Africa,Malaysia
+11,1983,Land Rover Defender 110,Multi-Purpose Light Combat Vehicle,Britain,Malaysia
+12,1983,Saxon AT105,Wheeled Armored Personnel Carrier (APC),Britain,Malaysia
+13,1982,HEMTT (Heavy Expanded Mobility Tactical Truck),Heavy-class Military Vehicle,United States,Malaysia
+14,1982,M939,5-ton Multi-Purpose Military Truck,United States,Malaysia
+15,1981,Alvis FV4333 Stormer,Armored Personnel Carrier (APC) / Multirole Armored Fighting Vehicle (AFV),Britain,Malaysia
+16,1981,Rheinmetall Landsysteme Condor,Wheeled Armored Personnel Carrier / Multipurpose Vehicle,Germany,Malaysia
+17,1980,Hagglunds Bandvagn 206,"All-Terrain, Articulated Tracked Multi-Role Vehicle",Sweden,Malaysia
+18,1978,FH70 (Field Howitzer 1970),155mm Towed Howitzer,Britain,Malaysia
+19,1976,"L118 Light Gun (Gun, 105mm, Field, L118)",105mm Towed Light Howitzer,Britain,Malaysia
+20,1975,FMS AIFV (Armored Infantry Fighting Vehicle) / (M113A1),Infantry Fighting Vehicle (IFV),United States,Malaysia
+21,1973,Alvis FV101 Scorpion,Light Armored Reconnaissance Vehicle,Britain,Malaysia
+22,1973,Panhard M3,Light-Armored Multirole Combat Car / Security Vehicle,France,Malaysia
+23,1970,WZT ARV (Series),Armored Recovery Vehicle,Poland,Malaysia
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,United States,Malaysia
+25,1960,Panhard AML (Auto Mitrailleuse Legere),Wheeled Light Armored Scout / Reconnaissance Car,France,Malaysia
+26,1956,OTO Melara Mod 56,105mm Pack Howitzer / Lightweight Artillery Piece,Italy,Malaysia
+27,1952,Daimler Ferret,4x4 Armored Car,Britain,Malaysia
+28,1942,Daimler Armored Car,Four-Wheeled Light Armored Fighting Vehicle (LAFV),Britain,Malaysia
+29,1941,Ordnance BL 5.5-inch,Towed Field Gun,Britain,Malaysia
+30,1940,Morris Light Reconnaissance Car (LRC),Fast Armored Car,Britain,Malaysia
+31,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Malaysia
+32,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Malaysia
+33,1920,Rock Island Arsenal M101,Towed 105mm Medium Howitzer,United States,Malaysia
+1,2020,Hanwha Tigon,6x6 Wheeled Armored Personnel Carrier (APC),South Korea,Malaysia
+2,2005,FNSS PARS (Anatolian Leopard),6x6 / 8x8 Armored Personnel Carrier (APC),Turkey,Malaysia
+3,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Malaysia
+4,1995,PT-91 Twardy,Main Battle Tank (MBT),Poland,Malaysia
+5,1992,FNSS ACV-15,Infantry Fighting Vehicle (IFV) / Armored Personnel Carrier (APC),Turkey,Malaysia
+6,1990,IVECO VM90,Light Multi-Mission Military Vehicle,Italy,Malaysia
+7,1985,K200 KIFV,Infantry Fighting Vehicle (IFV),South Korea,Malaysia
+8,1983,Avibras ASTROS II (Artillery SaTuration ROcket System),6x6 Wheeled Multiple Launch Rocket System (MLRS),Brazil,Malaysia
+9,1983,BNCFM SIBMAS,6x6 Wheeled Armored Fighting Vehicle (AFV),Belgium,Malaysia
+10,1983,Denel GV5 Luiperd (G5 Leopard),Towed 155mm Heavy Field Howitzer,South Africa,Malaysia
+11,1983,Land Rover Defender 110,Multi-Purpose Light Combat Vehicle,Britain,Malaysia
+12,1983,Saxon AT105,Wheeled Armored Personnel Carrier (APC),Britain,Malaysia
+13,1982,HEMTT (Heavy Expanded Mobility Tactical Truck),Heavy-class Military Vehicle,United States,Malaysia
+14,1982,M939,5-ton Multi-Purpose Military Truck,United States,Malaysia
+15,1981,Alvis FV4333 Stormer,Armored Personnel Carrier (APC) / Multirole Armored Fighting Vehicle (AFV),Britain,Malaysia
+16,1981,Rheinmetall Landsysteme Condor,Wheeled Armored Personnel Carrier / Multipurpose Vehicle,Germany,Malaysia
+17,1980,Hagglunds Bandvagn 206,"All-Terrain, Articulated Tracked Multi-Role Vehicle",Sweden,Malaysia
+18,1978,FH70 (Field Howitzer 1970),155mm Towed Howitzer,Britain,Malaysia
+19,1976,"L118 Light Gun (Gun, 105mm, Field, L118)",105mm Towed Light Howitzer,Britain,Malaysia
+20,1975,FMS AIFV (Armored Infantry Fighting Vehicle) / (M113A1),Infantry Fighting Vehicle (IFV),United States,Malaysia
+21,1973,Alvis FV101 Scorpion,Light Armored Reconnaissance Vehicle,Britain,Malaysia
+22,1973,Panhard M3,Light-Armored Multirole Combat Car / Security Vehicle,France,Malaysia
+23,1970,WZT ARV (Series),Armored Recovery Vehicle,Poland,Malaysia
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,United States,Malaysia
+25,1960,Panhard AML (Auto Mitrailleuse Legere),Wheeled Light Armored Scout / Reconnaissance Car,France,Malaysia
+26,1956,OTO Melara Mod 56,105mm Pack Howitzer / Lightweight Artillery Piece,Italy,Malaysia
+27,1952,Daimler Ferret,4x4 Armored Car,Britain,Malaysia
+28,1942,Daimler Armored Car,Four-Wheeled Light Armored Fighting Vehicle (LAFV),Britain,Malaysia
+29,1941,Ordnance BL 5.5-inch,Towed Field Gun,Britain,Malaysia
+30,1940,Morris Light Reconnaissance Car (LRC),Fast Armored Car,Britain,Malaysia
+31,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Malaysia
+32,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Malaysia
+33,1920,Rock Island Arsenal M101,Towed 105mm Medium Howitzer,United States,Malaysia
+1,2019,Hunter AFV,Armored Fighting Vehicle,Singapore,Singapore
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,Singapore,Singapore
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,South Africa,Singapore
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),Singapore,Singapore
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,United States,Singapore
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),United States,Singapore
+7,2005,SLWH Pegasus,155mm Towed Howitzer,Singapore,Singapore
+8,2004,SSPH 1 Primus,Self-Propelled Gun,Singapore,Singapore
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Singapore
+10,1997,Bionix AFV,Armored Fighting Vehicle,Singapore,Singapore
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,United States,Singapore
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,France,Singapore
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,Singapore,Singapore
+14,1989,2A45 Sprut,Towed Anti-Tank (AT) Gun System,Russia,Singapore
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,Singapore,Singapore
+16,1979,Leopard 2,Main Battle Tank (MBT),Germany,Singapore
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),Britain,Singapore
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,Canada,Singapore
+19,1975,Soltam M-71,155mm Towed Howitzer,Israel,Singapore
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),France,Singapore
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,Britain,Singapore
+22,1970,Soltam M-68,155mm Towed Field Howitzer,Israel,Singapore
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,United States,Singapore
+24,1963,Cadillac Gage Commando,Armored Car / Reconnaissance / Security Vehicle,United States,Singapore
+25,1960,M113 APC,Tracked Armored Personnel Carrier,United States,Singapore
+26,1960,M151 MUTT,4x4 Multi-Purpose Light Utility Vehicle,United States,Singapore
+27,1952,AMX-13,Light Tank (LT),France,Singapore
+28,1947,Mercedes-Benz UNIMOG,4x4 Utility Truck,Germany,Singapore
+29,1945,Centurion (A41),Main Battle Tank (MBT),Britain,Singapore
+30,1941,M114 155mm,Towed 155mm Heavy Howitzer,United States,Singapore
+31,1939,M-30,122mm Towed Field Howitzer,Soviet Union,Singapore
+32,1932,Bofors 40mm,Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Singapore
+33,1929,Lanchester Armored Car,Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Singapore
+1,2019,Hunter AFV,Armored Fighting Vehicle,Singapore,Thailand
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,Singapore,Thailand
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,South Africa,Thailand
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),Singapore,Thailand
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,United States,Thailand
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),United States,Thailand
+7,2005,SLWH Pegasus (Singapore Light Weight Howitzer),155mm Towed Howitzer,Singapore,Thailand
+8,2004,SSPH 1 Primus (Singapore Self-Propelled Howitzer 1),Self-Propelled Gun,Singapore,Thailand
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Thailand
+10,1997,Bionix AFV,Armored Fighting Vehicle,Singapore,Thailand
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,United States,Thailand
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,France,Thailand
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,Singapore,Thailand
+14,1989,2A45 Sprut (Kraken),Towed Anti-Tank (AT) Gun System,Russia,Thailand
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,Singapore,Thailand
+16,1979,Leopard 2,Main Battle Tank (MBT),Germany,Thailand
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),Britain,Thailand
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,Canada,Thailand
+19,1975,Soltam M-71,155mm Towed Howitzer,Israel,Thailand
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),France,Thailand
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,Britain,Thailand
+22,1970,Soltam M-68,155mm Towed Field Howitzer,Israel,Thailand
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,United States,Thailand
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,United States,Thailand
+25,1960,M113 APC,Tracked Armored Personnel Carrier,United States,Thailand
+26,1960,M151 MUTT (Military Utility Tactical Truck),4x4 Multi-Purpose Light Utility Vehicle,United States,Thailand
+27,1952,AMX-13,Light Tank (LT),France,Thailand
+28,1947,Mercedes-Benz UNIMOG (UNIversal-MOtor-Gerat),4x4 Utility Truck,Germany,Thailand
+29,1945,Centurion (A41),Main Battle Tank (MBT),Britain,Thailand
+30,1941,M114 155mm (155mm Howitzer M1),Towed 155mm Heavy Howitzer,United States,Thailand
+31,1939,M-30 (Model 1938),122mm Towed Field Howitzer,Soviet Union,Thailand
+32,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Thailand
+33,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Thailand
+1,2019,Hunter AFV,Armored Fighting Vehicle,Singapore,Singapore
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,Singapore,Singapore
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,South Africa,Singapore
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),Singapore,Singapore
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,United States,Singapore
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),United States,Singapore
+7,2005,SLWH Pegasus,155mm Towed Howitzer,Singapore,Singapore
+8,2004,SSPH 1 Primus,Self-Propelled Gun,Singapore,Singapore
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Singapore
+10,1997,Bionix AFV,Armored Fighting Vehicle,Singapore,Singapore
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,United States,Singapore
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,France,Singapore
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,Singapore,Singapore
+14,1989,2A45 Sprut,Towed Anti-Tank (AT) Gun System,Russia,Singapore
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,Singapore,Singapore
+16,1979,Leopard 2,Main Battle Tank (MBT),Germany,Singapore
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),Britain,Singapore
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,Canada,Singapore
+19,1975,Soltam M-71,155mm Towed Howitzer,Israel,Singapore
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),France,Singapore
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,Britain,Singapore
+22,1970,Soltam M-68,155mm Towed Field Howitzer,Israel,Singapore
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,United States,Singapore
+24,1963,Cadillac Gage Commando,Armored Car / Reconnaissance / Security Vehicle,United States,Singapore
+25,1960,M113 APC,Tracked Armored Personnel Carrier,United States,Singapore
+26,1960,M151 MUTT,4x4 Multi-Purpose Light Utility Vehicle,United States,Singapore
+27,1952,AMX-13,Light Tank (LT),France,Singapore
+28,1947,Mercedes-Benz UNIMOG,4x4 Utility Truck,Germany,Singapore
+29,1945,Centurion (A41),Main Battle Tank (MBT),Britain,Singapore
+30,1941,M114 155mm,Towed 155mm Heavy Howitzer,United States,Singapore
+31,1939,M-30,122mm Towed Field Howitzer,Soviet Union,Singapore
+32,1932,Bofors 40mm,Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Singapore
+33,1929,Lanchester Armored Car,Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Singapore
+1,2019,Hunter AFV,Armored Fighting Vehicle,,Thailand
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,,Thailand
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,,Thailand
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),,Thailand
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,,Thailand
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),,Thailand
+7,2005,SLWH Pegasus (Singapore Light Weight Howitzer),155mm Towed Howitzer,,Thailand
+8,2004,SSPH 1 Primus (Singapore Self-Propelled Howitzer 1),Self-Propelled Gun,,Thailand
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,,Thailand
+10,1997,Bionix AFV,Armored Fighting Vehicle,,Thailand
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,,Thailand
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,,Thailand
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,,Thailand
+14,1989,2A45 Sprut (Kraken),Towed Anti-Tank (AT) Gun System,,Thailand
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,,Thailand
+16,1979,Leopard 2,Main Battle Tank (MBT),,Thailand
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),,Thailand
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,,Thailand
+19,1975,Soltam M-71,155mm Towed Howitzer,,Thailand
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),,Thailand
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,,Thailand
+22,1970,Soltam M-68,155mm Towed Field Howitzer,,Thailand
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,,Thailand
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,,Thailand
+25,1960,M113 APC,Tracked Armored Personnel Carrier,,Thailand
+26,1960,M151 MUTT (Military Utility Tactical Truck),4x4 Multi-Purpose Light Utility Vehicle,,Thailand
+27,1952,AMX-13,Light Tank (LT),,Thailand
+28,1947,Mercedes-Benz UNIMOG (UNIversal-MOtor-Gerat),4x4 Utility Truck,,Thailand
+29,1945,Centurion (A41),Main Battle Tank (MBT),,Thailand
+30,1941,M114 155mm (155mm Howitzer M1),Towed 155mm Heavy Howitzer,,Thailand
+31,1939,M-30 (Model 1938),122mm Towed Field Howitzer,,Thailand
+32,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,,Thailand
+33,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),,Thailand
+1,2019,Hunter AFV,Armored Fighting Vehicle,Singapore,Singapore
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,Singapore,Singapore
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,South Africa,Singapore
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),Singapore,Singapore
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,United States,Singapore
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),United States,Singapore
+7,2005,SLWH Pegasus,155mm Towed Howitzer,Singapore,Singapore
+8,2004,SSPH 1 Primus,Self-Propelled Gun,Singapore,Singapore
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Singapore
+10,1997,Bionix AFV,Armored Fighting Vehicle,Singapore,Singapore
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,United States,Singapore
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,France,Singapore
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,Singapore,Singapore
+14,1989,2A45 Sprut,Towed Anti-Tank (AT) Gun System,Russia,Singapore
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,Singapore,Singapore
+16,1979,Leopard 2,Main Battle Tank (MBT),Germany,Singapore
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),Britain,Singapore
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,Canada,Singapore
+19,1975,Soltam M-71,155mm Towed Howitzer,Israel,Singapore
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),France,Singapore
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,Britain,Singapore
+22,1970,Soltam M-68,155mm Towed Field Howitzer,Israel,Singapore
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,United States,Singapore
+24,1963,Cadillac Gage Commando,Armored Car / Reconnaissance / Security Vehicle,United States,Singapore
+25,1960,M113 APC,Tracked Armored Personnel Carrier,United States,Singapore
+26,1960,M151 MUTT,4x4 Multi-Purpose Light Utility Vehicle,United States,Singapore
+27,1952,AMX-13,Light Tank (LT),France,Singapore
+28,1947,Mercedes-Benz UNIMOG,4x4 Utility Truck,Germany,Singapore
+29,1945,Centurion (A41),Main Battle Tank (MBT),Britain,Singapore
+30,1941,M114 155mm,Towed 155mm Heavy Howitzer,United States,Singapore
+31,1939,M-30,122mm Towed Field Howitzer,Soviet Union,Singapore
+32,1932,Bofors 40mm,Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Singapore
+33,1929,Lanchester Armored Car,Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Singapore
+1,2019,Hunter AFV,Armored Fighting Vehicle,,Thailand
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,,Thailand
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,,Thailand
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),,Thailand
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,,Thailand
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),,Thailand
+7,2005,SLWH Pegasus (Singapore Light Weight Howitzer),155mm Towed Howitzer,,Thailand
+8,2004,SSPH 1 Primus (Singapore Self-Propelled Howitzer 1),Self-Propelled Gun,,Thailand
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,,Thailand
+10,1997,Bionix AFV,Armored Fighting Vehicle,,Thailand
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,,Thailand
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,,Thailand
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,,Thailand
+14,1989,2A45 Sprut (Kraken),Towed Anti-Tank (AT) Gun System,,Thailand
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,,Thailand
+16,1979,Leopard 2,Main Battle Tank (MBT),,Thailand
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),,Thailand
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,,Thailand
+19,1975,Soltam M-71,155mm Towed Howitzer,,Thailand
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),,Thailand
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,,Thailand
+22,1970,Soltam M-68,155mm Towed Field Howitzer,,Thailand
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,,Thailand
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,,Thailand
+25,1960,M113 APC,Tracked Armored Personnel Carrier,,Thailand
+26,1960,M151 MUTT (Military Utility Tactical Truck),4x4 Multi-Purpose Light Utility Vehicle,,Thailand
+27,1952,AMX-13,Light Tank (LT),,Thailand
+28,1947,Mercedes-Benz UNIMOG (UNIversal-MOtor-Gerat),4x4 Utility Truck,,Thailand
+29,1945,Centurion (A41),Main Battle Tank (MBT),,Thailand
+30,1941,M114 155mm (155mm Howitzer M1),Towed 155mm Heavy Howitzer,,Thailand
+31,1939,M-30 (Model 1938),122mm Towed Field Howitzer,,Thailand
+32,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,,Thailand
+33,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),,Thailand
+1,2019,Hunter AFV,Armored Fighting Vehicle,Singapore,Singapore
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,Singapore,Singapore
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,South Africa,Singapore
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),Singapore,Singapore
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,United States,Singapore
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),United States,Singapore
+7,2005,SLWH Pegasus,155mm Towed Howitzer,Singapore,Singapore
+8,2004,SSPH 1 Primus,Self-Propelled Gun,Singapore,Singapore
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Singapore
+10,1997,Bionix AFV,Armored Fighting Vehicle,Singapore,Singapore
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,United States,Singapore
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,France,Singapore
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,Singapore,Singapore
+14,1989,2A45 Sprut,Towed Anti-Tank (AT) Gun System,Russia,Singapore
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,Singapore,Singapore
+16,1979,Leopard 2,Main Battle Tank (MBT),Germany,Singapore
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),Britain,Singapore
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,Canada,Singapore
+19,1975,Soltam M-71,155mm Towed Howitzer,Israel,Singapore
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),France,Singapore
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,Britain,Singapore
+22,1970,Soltam M-68,155mm Towed Field Howitzer,Israel,Singapore
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,United States,Singapore
+24,1963,Cadillac Gage Commando,Armored Car / Reconnaissance / Security Vehicle,United States,Singapore
+25,1960,M113 APC,Tracked Armored Personnel Carrier,United States,Singapore
+26,1960,M151 MUTT,4x4 Multi-Purpose Light Utility Vehicle,United States,Singapore
+27,1952,AMX-13,Light Tank (LT),France,Singapore
+28,1947,Mercedes-Benz UNIMOG,4x4 Utility Truck,Germany,Singapore
+29,1945,Centurion (A41),Main Battle Tank (MBT),Britain,Singapore
+30,1941,M114 155mm,Towed 155mm Heavy Howitzer,United States,Singapore
+31,1939,M-30,122mm Towed Field Howitzer,Soviet Union,Singapore
+32,1932,Bofors 40mm,Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Singapore
+33,1929,Lanchester Armored Car,Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Singapore
+1,2019,Hunter AFV,Armored Fighting Vehicle,,Thailand
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,,Thailand
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,,Thailand
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),,Thailand
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,,Thailand
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),,Thailand
+7,2005,SLWH Pegasus (Singapore Light Weight Howitzer),155mm Towed Howitzer,,Thailand
+8,2004,SSPH 1 Primus (Singapore Self-Propelled Howitzer 1),Self-Propelled Gun,,Thailand
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,,Thailand
+10,1997,Bionix AFV,Armored Fighting Vehicle,,Thailand
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,,Thailand
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,,Thailand
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,,Thailand
+14,1989,2A45 Sprut (Kraken),Towed Anti-Tank (AT) Gun System,,Thailand
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,,Thailand
+16,1979,Leopard 2,Main Battle Tank (MBT),,Thailand
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),,Thailand
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,,Thailand
+19,1975,Soltam M-71,155mm Towed Howitzer,,Thailand
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),,Thailand
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,,Thailand
+22,1970,Soltam M-68,155mm Towed Field Howitzer,,Thailand
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,,Thailand
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,,Thailand
+25,1960,M113 APC,Tracked Armored Personnel Carrier,,Thailand
+26,1960,M151 MUTT (Military Utility Tactical Truck),4x4 Multi-Purpose Light Utility Vehicle,,Thailand
+27,1952,AMX-13,Light Tank (LT),,Thailand
+28,1947,Mercedes-Benz UNIMOG (UNIversal-MOtor-Gerat),4x4 Utility Truck,,Thailand
+29,1945,Centurion (A41),Main Battle Tank (MBT),,Thailand
+30,1941,M114 155mm (155mm Howitzer M1),Towed 155mm Heavy Howitzer,,Thailand
+31,1939,M-30 (Model 1938),122mm Towed Field Howitzer,,Thailand
+32,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,,Thailand
+33,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),,Thailand
+1,2019,Hunter AFV,Armored Fighting Vehicle,Singapore,Singapore
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,Singapore,Singapore
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,South Africa,Singapore
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),Singapore,Singapore
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,United States,Singapore
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),United States,Singapore
+7,2005,SLWH Pegasus,155mm Towed Howitzer,Singapore,Singapore
+8,2004,SSPH 1 Primus,Self-Propelled Gun,Singapore,Singapore
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Singapore
+10,1997,Bionix AFV,Armored Fighting Vehicle,Singapore,Singapore
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,United States,Singapore
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,France,Singapore
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,Singapore,Singapore
+14,1989,2A45 Sprut,Towed Anti-Tank (AT) Gun System,Russia,Singapore
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,Singapore,Singapore
+16,1979,Leopard 2,Main Battle Tank (MBT),Germany,Singapore
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),Britain,Singapore
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,Canada,Singapore
+19,1975,Soltam M-71,155mm Towed Howitzer,Israel,Singapore
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),France,Singapore
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,Britain,Singapore
+22,1970,Soltam M-68,155mm Towed Field Howitzer,Israel,Singapore
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,United States,Singapore
+24,1963,Cadillac Gage Commando,Armored Car / Reconnaissance / Security Vehicle,United States,Singapore
+25,1960,M113 APC,Tracked Armored Personnel Carrier,United States,Singapore
+26,1960,M151 MUTT,4x4 Multi-Purpose Light Utility Vehicle,United States,Singapore
+27,1952,AMX-13,Light Tank (LT),France,Singapore
+28,1947,Mercedes-Benz UNIMOG,4x4 Utility Truck,Germany,Singapore
+29,1945,Centurion (A41),Main Battle Tank (MBT),Britain,Singapore
+30,1941,M114 155mm,Towed 155mm Heavy Howitzer,United States,Singapore
+31,1939,M-30,122mm Towed Field Howitzer,Soviet Union,Singapore
+32,1932,Bofors 40mm,Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Singapore
+33,1929,Lanchester Armored Car,Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Singapore
+1,2019,Hunter AFV,Armored Fighting Vehicle,,Thailand
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,,Thailand
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,,Thailand
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),,Thailand
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,,Thailand
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),,Thailand
+7,2005,SLWH Pegasus (Singapore Light Weight Howitzer),155mm Towed Howitzer,,Thailand
+8,2004,SSPH 1 Primus (Singapore Self-Propelled Howitzer 1),Self-Propelled Gun,,Thailand
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,,Thailand
+10,1997,Bionix AFV,Armored Fighting Vehicle,,Thailand
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,,Thailand
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,,Thailand
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,,Thailand
+14,1989,2A45 Sprut (Kraken),Towed Anti-Tank (AT) Gun System,,Thailand
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,,Thailand
+16,1979,Leopard 2,Main Battle Tank (MBT),,Thailand
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),,Thailand
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,,Thailand
+19,1975,Soltam M-71,155mm Towed Howitzer,,Thailand
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),,Thailand
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,,Thailand
+22,1970,Soltam M-68,155mm Towed Field Howitzer,,Thailand
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,,Thailand
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,,Thailand
+25,1960,M113 APC,Tracked Armored Personnel Carrier,,Thailand
+26,1960,M151 MUTT (Military Utility Tactical Truck),4x4 Multi-Purpose Light Utility Vehicle,,Thailand
+27,1952,AMX-13,Light Tank (LT),,Thailand
+28,1947,Mercedes-Benz UNIMOG (UNIversal-MOtor-Gerat),4x4 Utility Truck,,Thailand
+29,1945,Centurion (A41),Main Battle Tank (MBT),,Thailand
+30,1941,M114 155mm (155mm Howitzer M1),Towed 155mm Heavy Howitzer,,Thailand
+31,1939,M-30 (Model 1938),122mm Towed Field Howitzer,,Thailand
+32,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,,Thailand
+33,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),,Thailand
+1,2019,Hunter AFV,Armored Fighting Vehicle,Singapore,Singapore
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,Singapore,Singapore
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,South Africa,Singapore
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),Singapore,Singapore
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,United States,Singapore
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),United States,Singapore
+7,2005,SLWH Pegasus,155mm Towed Howitzer,Singapore,Singapore
+8,2004,SSPH 1 Primus,Self-Propelled Gun,Singapore,Singapore
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Singapore
+10,1997,Bionix AFV,Armored Fighting Vehicle,Singapore,Singapore
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,United States,Singapore
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,France,Singapore
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,Singapore,Singapore
+14,1989,2A45 Sprut,Towed Anti-Tank (AT) Gun System,Russia,Singapore
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,Singapore,Singapore
+16,1979,Leopard 2,Main Battle Tank (MBT),Germany,Singapore
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),Britain,Singapore
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,Canada,Singapore
+19,1975,Soltam M-71,155mm Towed Howitzer,Israel,Singapore
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),France,Singapore
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,Britain,Singapore
+22,1970,Soltam M-68,155mm Towed Field Howitzer,Israel,Singapore
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,United States,Singapore
+24,1963,Cadillac Gage Commando,Armored Car / Reconnaissance / Security Vehicle,United States,Singapore
+25,1960,M113 APC,Tracked Armored Personnel Carrier,United States,Singapore
+26,1960,M151 MUTT,4x4 Multi-Purpose Light Utility Vehicle,United States,Singapore
+27,1952,AMX-13,Light Tank (LT),France,Singapore
+28,1947,Mercedes-Benz UNIMOG,4x4 Utility Truck,Germany,Singapore
+29,1945,Centurion (A41),Main Battle Tank (MBT),Britain,Singapore
+30,1941,M114 155mm,Towed 155mm Heavy Howitzer,United States,Singapore
+31,1939,M-30,122mm Towed Field Howitzer,Soviet Union,Singapore
+32,1932,Bofors 40mm,Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Singapore
+33,1929,Lanchester Armored Car,Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Singapore
+1,2019,Hunter AFV,Armored Fighting Vehicle,,Thailand
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,,Thailand
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,,Thailand
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),,Thailand
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,,Thailand
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),,Thailand
+7,2005,SLWH Pegasus (Singapore Light Weight Howitzer),155mm Towed Howitzer,,Thailand
+8,2004,SSPH 1 Primus (Singapore Self-Propelled Howitzer 1),Self-Propelled Gun,,Thailand
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,,Thailand
+10,1997,Bionix AFV,Armored Fighting Vehicle,,Thailand
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,,Thailand
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,,Thailand
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,,Thailand
+14,1989,2A45 Sprut (Kraken),Towed Anti-Tank (AT) Gun System,,Thailand
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,,Thailand
+16,1979,Leopard 2,Main Battle Tank (MBT),,Thailand
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),,Thailand
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,,Thailand
+19,1975,Soltam M-71,155mm Towed Howitzer,,Thailand
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),,Thailand
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,,Thailand
+22,1970,Soltam M-68,155mm Towed Field Howitzer,,Thailand
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,,Thailand
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,,Thailand
+25,1960,M113 APC,Tracked Armored Personnel Carrier,,Thailand
+26,1960,M151 MUTT (Military Utility Tactical Truck),4x4 Multi-Purpose Light Utility Vehicle,,Thailand
+27,1952,AMX-13,Light Tank (LT),,Thailand
+28,1947,Mercedes-Benz UNIMOG (UNIversal-MOtor-Gerat),4x4 Utility Truck,,Thailand
+29,1945,Centurion (A41),Main Battle Tank (MBT),,Thailand
+30,1941,M114 155mm (155mm Howitzer M1),Towed 155mm Heavy Howitzer,,Thailand
+31,1939,M-30 (Model 1938),122mm Towed Field Howitzer,,Thailand
+32,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,,Thailand
+33,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),,Thailand
+1,2019,Hunter AFV,Armored Fighting Vehicle,Singapore,Singapore
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,Singapore,Singapore
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,South Africa,Singapore
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),Singapore,Singapore
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,United States,Singapore
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),United States,Singapore
+7,2005,SLWH Pegasus,155mm Towed Howitzer,Singapore,Singapore
+8,2004,SSPH 1 Primus,Self-Propelled Gun,Singapore,Singapore
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Singapore
+10,1997,Bionix AFV,Armored Fighting Vehicle,Singapore,Singapore
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,United States,Singapore
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,France,Singapore
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,Singapore,Singapore
+14,1989,2A45 Sprut,Towed Anti-Tank (AT) Gun System,Russia,Singapore
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,Singapore,Singapore
+16,1979,Leopard 2,Main Battle Tank (MBT),Germany,Singapore
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),Britain,Singapore
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,Canada,Singapore
+19,1975,Soltam M-71,155mm Towed Howitzer,Israel,Singapore
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),France,Singapore
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,Britain,Singapore
+22,1970,Soltam M-68,155mm Towed Field Howitzer,Israel,Singapore
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,United States,Singapore
+24,1963,Cadillac Gage Commando,Armored Car / Reconnaissance / Security Vehicle,United States,Singapore
+25,1960,M113 APC,Tracked Armored Personnel Carrier,United States,Singapore
+26,1960,M151 MUTT,4x4 Multi-Purpose Light Utility Vehicle,United States,Singapore
+27,1952,AMX-13,Light Tank (LT),France,Singapore
+28,1947,Mercedes-Benz UNIMOG,4x4 Utility Truck,Germany,Singapore
+29,1945,Centurion (A41),Main Battle Tank (MBT),Britain,Singapore
+30,1941,M114 155mm,Towed 155mm Heavy Howitzer,United States,Singapore
+31,1939,M-30,122mm Towed Field Howitzer,Soviet Union,Singapore
+32,1932,Bofors 40mm,Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Singapore
+33,1929,Lanchester Armored Car,Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Singapore
+1,2019,Hunter AFV,Armored Fighting Vehicle,,Thailand
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,,Thailand
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,,Thailand
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),,Thailand
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,,Thailand
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),,Thailand
+7,2005,SLWH Pegasus (Singapore Light Weight Howitzer),155mm Towed Howitzer,,Thailand
+8,2004,SSPH 1 Primus (Singapore Self-Propelled Howitzer 1),Self-Propelled Gun,,Thailand
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,,Thailand
+10,1997,Bionix AFV,Armored Fighting Vehicle,,Thailand
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,,Thailand
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,,Thailand
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,,Thailand
+14,1989,2A45 Sprut (Kraken),Towed Anti-Tank (AT) Gun System,,Thailand
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,,Thailand
+16,1979,Leopard 2,Main Battle Tank (MBT),,Thailand
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),,Thailand
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,,Thailand
+19,1975,Soltam M-71,155mm Towed Howitzer,,Thailand
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),,Thailand
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,,Thailand
+22,1970,Soltam M-68,155mm Towed Field Howitzer,,Thailand
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,,Thailand
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,,Thailand
+25,1960,M113 APC,Tracked Armored Personnel Carrier,,Thailand
+26,1960,M151 MUTT (Military Utility Tactical Truck),4x4 Multi-Purpose Light Utility Vehicle,,Thailand
+27,1952,AMX-13,Light Tank (LT),,Thailand
+28,1947,Mercedes-Benz UNIMOG (UNIversal-MOtor-Gerat),4x4 Utility Truck,,Thailand
+29,1945,Centurion (A41),Main Battle Tank (MBT),,Thailand
+30,1941,M114 155mm (155mm Howitzer M1),Towed 155mm Heavy Howitzer,,Thailand
+31,1939,M-30 (Model 1938),122mm Towed Field Howitzer,,Thailand
+32,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,,Thailand
+33,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),,Thailand
+1,2019,Hunter AFV,Armored Fighting Vehicle,Singapore,Singapore
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,Singapore,Singapore
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,South Africa,Singapore
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),Singapore,Singapore
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,United States,Singapore
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),United States,Singapore
+7,2005,SLWH Pegasus,155mm Towed Howitzer,Singapore,Singapore
+8,2004,SSPH 1 Primus,Self-Propelled Gun,Singapore,Singapore
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Singapore
+10,1997,Bionix AFV,Armored Fighting Vehicle,Singapore,Singapore
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,United States,Singapore
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,France,Singapore
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,Singapore,Singapore
+14,1989,2A45 Sprut,Towed Anti-Tank (AT) Gun System,Russia,Singapore
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,Singapore,Singapore
+16,1979,Leopard 2,Main Battle Tank (MBT),Germany,Singapore
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),Britain,Singapore
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,Canada,Singapore
+19,1975,Soltam M-71,155mm Towed Howitzer,Israel,Singapore
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),France,Singapore
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,Britain,Singapore
+22,1970,Soltam M-68,155mm Towed Field Howitzer,Israel,Singapore
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,United States,Singapore
+24,1963,Cadillac Gage Commando,Armored Car / Reconnaissance / Security Vehicle,United States,Singapore
+25,1960,M113 APC,Tracked Armored Personnel Carrier,United States,Singapore
+26,1960,M151 MUTT,4x4 Multi-Purpose Light Utility Vehicle,United States,Singapore
+27,1952,AMX-13,Light Tank (LT),France,Singapore
+28,1947,Mercedes-Benz UNIMOG,4x4 Utility Truck,Germany,Singapore
+29,1945,Centurion (A41),Main Battle Tank (MBT),Britain,Singapore
+30,1941,M114 155mm,Towed 155mm Heavy Howitzer,United States,Singapore
+31,1939,M-30,122mm Towed Field Howitzer,Soviet Union,Singapore
+32,1932,Bofors 40mm,Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Singapore
+33,1929,Lanchester Armored Car,Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Singapore
+1,2019,Hunter AFV,Armored Fighting Vehicle,,Thailand
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,,Thailand
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,,Thailand
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),,Thailand
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,,Thailand
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),,Thailand
+7,2005,SLWH Pegasus (Singapore Light Weight Howitzer),155mm Towed Howitzer,,Thailand
+8,2004,SSPH 1 Primus (Singapore Self-Propelled Howitzer 1),Self-Propelled Gun,,Thailand
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,,Thailand
+10,1997,Bionix AFV,Armored Fighting Vehicle,,Thailand
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,,Thailand
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,,Thailand
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,,Thailand
+14,1989,2A45 Sprut (Kraken),Towed Anti-Tank (AT) Gun System,,Thailand
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,,Thailand
+16,1979,Leopard 2,Main Battle Tank (MBT),,Thailand
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),,Thailand
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,,Thailand
+19,1975,Soltam M-71,155mm Towed Howitzer,,Thailand
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),,Thailand
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,,Thailand
+22,1970,Soltam M-68,155mm Towed Field Howitzer,,Thailand
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,,Thailand
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,,Thailand
+25,1960,M113 APC,Tracked Armored Personnel Carrier,,Thailand
+26,1960,M151 MUTT (Military Utility Tactical Truck),4x4 Multi-Purpose Light Utility Vehicle,,Thailand
+27,1952,AMX-13,Light Tank (LT),,Thailand
+28,1947,Mercedes-Benz UNIMOG (UNIversal-MOtor-Gerat),4x4 Utility Truck,,Thailand
+29,1945,Centurion (A41),Main Battle Tank (MBT),,Thailand
+30,1941,M114 155mm (155mm Howitzer M1),Towed 155mm Heavy Howitzer,,Thailand
+31,1939,M-30 (Model 1938),122mm Towed Field Howitzer,,Thailand
+32,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,,Thailand
+33,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),,Thailand
+1,2019,Hunter AFV,Armored Fighting Vehicle,Singapore,Singapore
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,Singapore,Singapore
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,South Africa,Singapore
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),Singapore,Singapore
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,United States,Singapore
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),United States,Singapore
+7,2005,SLWH Pegasus,155mm Towed Howitzer,Singapore,Singapore
+8,2004,SSPH 1 Primus,Self-Propelled Gun,Singapore,Singapore
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,Spain,Singapore
+10,1997,Bionix AFV,Armored Fighting Vehicle,Singapore,Singapore
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,United States,Singapore
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,France,Singapore
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,Singapore,Singapore
+14,1989,2A45 Sprut,Towed Anti-Tank (AT) Gun System,Russia,Singapore
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,Singapore,Singapore
+16,1979,Leopard 2,Main Battle Tank (MBT),Germany,Singapore
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),Britain,Singapore
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,Canada,Singapore
+19,1975,Soltam M-71,155mm Towed Howitzer,Israel,Singapore
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),France,Singapore
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,Britain,Singapore
+22,1970,Soltam M-68,155mm Towed Field Howitzer,Israel,Singapore
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,United States,Singapore
+24,1963,Cadillac Gage Commando,Armored Car / Reconnaissance / Security Vehicle,United States,Singapore
+25,1960,M113 APC,Tracked Armored Personnel Carrier,United States,Singapore
+26,1960,M151 MUTT,4x4 Multi-Purpose Light Utility Vehicle,United States,Singapore
+27,1952,AMX-13,Light Tank (LT),France,Singapore
+28,1947,Mercedes-Benz UNIMOG,4x4 Utility Truck,Germany,Singapore
+29,1945,Centurion (A41),Main Battle Tank (MBT),Britain,Singapore
+30,1941,M114 155mm,Towed 155mm Heavy Howitzer,United States,Singapore
+31,1939,M-30,122mm Towed Field Howitzer,Soviet Union,Singapore
+32,1932,Bofors 40mm,Towed Anti-Aircraft Gun / Air Defense Gun,Sweden,Singapore
+33,1929,Lanchester Armored Car,Six-Wheeled Light Armored Fighting Vehicle (AFV),Britain,Singapore
+1,2019,Hunter AFV,Armored Fighting Vehicle,,Thailand
+2,2013,ST Kinetics Spider Mk II,Light Strike Vehicle,,Thailand
+3,2009,Paramount Marauder,4-Wheeled Mine-Resistant Armored Vehicle,,Thailand
+4,2009,ST Kinetics Terrex (AV81),Infantry Carrier Vehicle (ICV),,Thailand
+5,2007,Navistar International MaxxPro,Mine Resistant Ambush Protected (MRAP) Vehicle,,Thailand
+6,2005,M142 High Mobility Artillery Rocket System (HIMARS),Multiple Launch Rocket System (MLRS),,Thailand
+7,2005,SLWH Pegasus (Singapore Light Weight Howitzer),155mm Towed Howitzer,,Thailand
+8,2004,SSPH 1 Primus (Singapore Self-Propelled Howitzer 1),Self-Propelled Gun,,Thailand
+9,1998,URO VAMTAC,Multirole / Multipurpose Military Vehicle,,Thailand
+10,1997,Bionix AFV,Armored Fighting Vehicle,,Thailand
+11,1996,FMTV (Family of Medium Tactical Vehicles),Tactical Medium-class Military Truck,,Thailand
+12,1995,Nexter (GIAT) LG1,105mm Towed Light Howitzer,,Thailand
+13,1993,ST Kinetics FH-2000,155mm Towed Howitzer,,Thailand
+14,1989,2A45 Sprut (Kraken),Towed Anti-Tank (AT) Gun System,,Thailand
+15,1988,ST Kinetics FH-88,155mm Towed Field Howitzer,,Thailand
+16,1979,Leopard 2,Main Battle Tank (MBT),,Thailand
+17,1976,FV180 Combat Engineer Tractor (CET),Armored Combat Engineering Vehicle (ACEV),,Thailand
+18,1976,SRS GC-45 / Noricum GHN-45,155mm Towed Field Howitzer,,Thailand
+19,1975,Soltam M-71,155mm Towed Howitzer,,Thailand
+20,1973,AMX-10P,Infantry Fighting Vehicle (IFV),,Thailand
+21,1971,Rapier ADMS,Towed / Tracked Air Defense Missile System,,Thailand
+22,1970,Soltam M-68,155mm Towed Field Howitzer,,Thailand
+23,1967,M60 AVLB,Armored Vehicle Launched Bridge,,Thailand
+24,1963,Cadillac Gage Commando (M706 / G-392),Armored Car / Reconnaissance / Security Vehicle,,Thailand
+25,1960,M113 APC,Tracked Armored Personnel Carrier,,Thailand
+26,1960,M151 MUTT (Military Utility Tactical Truck),4x4 Multi-Purpose Light Utility Vehicle,,Thailand
+27,1952,AMX-13,Light Tank (LT),,Thailand
+28,1947,Mercedes-Benz UNIMOG (UNIversal-MOtor-Gerat),4x4 Utility Truck,,Thailand
+29,1945,Centurion (A41),Main Battle Tank (MBT),,Thailand
+30,1941,M114 155mm (155mm Howitzer M1),Towed 155mm Heavy Howitzer,,Thailand
+31,1939,M-30 (Model 1938),122mm Towed Field Howitzer,,Thailand
+32,1932,Bofors 40mm (Series),Towed Anti-Aircraft Gun / Air Defense Gun,,Thailand
+33,1929,Lanchester Armored Car (6x4),Six-Wheeled Light Armored Fighting Vehicle (AFV),,Thailand
